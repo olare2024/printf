@@ -1,7 +1,7 @@
 # _printf :page_facing_up:
 <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAbyraSoFJo9DIcA4aPq8KnJEnX2zySzaYA&usqp=CAU" alt="_printf logo"></p>
 A formatted output conversion C program completed as part of the low-level
-programming and algorithm track at Holberton School. The program is a pseudo-
+programming and algorithm track at ALX Best School. The program is a pseudo-
 recreation of the C standard library function, `printf`.
 
 ## Dependencies :couple:
@@ -416,7 +416,7 @@ Output:
 
 ## More Examples :thumbsup:
 
-To print the address of Holberton School in the format "972 Mission St., San
+To print the address of School in the format "972 Mission St., San
 Francisco, CA 94103" where *street*, *city* and *state* are pointers to strings:
 
 Example `main.c`:
